@@ -1,0 +1,21 @@
+{
+  "name": "tscourse",
+  "version": "1.0.0",
+  "description": "for master ts ",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "omarSabra",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.16.2",
+    "clipboardy": "^3.0.0",
+    "ts-node": "^10.9.1",
+    "tslib": "^2.5.0"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
