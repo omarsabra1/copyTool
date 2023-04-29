@@ -29,9 +29,9 @@ async function main(path) {
   log("Done 😎");
 }
 log("can you Enter path please");
-const path = prompt();
+let path = prompt();
 if(process.platform ===  'win32'){
-  path.replaceAll('\\','\\\\');
+  path= path.replaceAll('\\','\\\\');
 }
 
 if (!existsSync(path)) {
