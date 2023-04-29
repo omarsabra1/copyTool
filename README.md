@@ -22,3 +22,11 @@ copy your path NOTE (the full path)
 
 `D:\course\etc` in windows system 
 
+## Note 
+-------------
+
+Make sure you enable clipboard 
+
+### Windows 
+    Win + V 
+    open 
