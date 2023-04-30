@@ -4,7 +4,7 @@
 
 To get started with copyTool to  install node.js 
 ```bash
-git clone https://github.com/omarsabra1/O-chat.git
+git clone https://github.com/omarsabra1/copyTool
 cd copyTool
 npm install
 ```
